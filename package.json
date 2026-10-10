@@ -9,7 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "@types/bcryptjs": "^2.4.6",
+    "bcryptjs": "^3.0.3",
+    "init": "^0.1.2",
+    "mysql": "^2.18.1",
     "next": "16.4.0",
+    "npx": "^10.2.2",
+    "prisma": "^6.19.3",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
